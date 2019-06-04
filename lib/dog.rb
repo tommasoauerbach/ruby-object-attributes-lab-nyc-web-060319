@@ -5,8 +5,8 @@ def initialize(name, breed)
   @breed = breed
 end
 
-def breed
-  @breed
+def name
+  @name
 end
 
 def name=(new_name)
